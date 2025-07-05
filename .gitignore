@@ -37,3 +37,4 @@ windows/
 *.lock
 *.log
 *.tmp
+*.env
