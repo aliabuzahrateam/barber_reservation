@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187072577534",
+    "project_id": "barber-servation",
+    "storage_bucket": "barber-servation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187072577534:android:51d51f6427d8f5d0910aaf",
+        "android_client_info": {
+          "package_name": "com.example.barber_reservation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLsju3QfYgbSB9TvWfRfwqBT3cNMg9LZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
